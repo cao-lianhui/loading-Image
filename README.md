@@ -6,4 +6,4 @@ Load image use template-web.js and masonry.pkgd.min.js
 
 如下图:
 
-![Image text](https://github.com/cao-lianhui/loading-Image/blob/master/image/masonry.gif)
+![Image text](https://github.com/cao-lianhui/loading-Image/blob/master/image/masonry2.gif)
